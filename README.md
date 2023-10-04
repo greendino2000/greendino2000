@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java & Engineering Basics**
 
-- 📖 All of my projects are available at [https://github.com/greendino2000?tab=repositories](https://github.com/greendino2000?tab=repositories)
+- 📖 All of my open source projects are available at [https://github.com/greendino2000?tab=repositories](https://github.com/greendino2000?tab=repositories)
 
 - 💬 Ask me about **dinosaurs, AI, portal, and Starfield**
 
 - 📫 How to reach me **greendino30ba@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio.greendino.dev/](https://portfolio.greendino.dev/)
+- 📄 Read about my experiences [https://portfolio.greendino.dev/](https://portfolio.greendino.dev/)
 
 - ⚡ Fun fact **I've been programming for six years**
 
