@@ -15,7 +15,7 @@
 
 - 📄 Read about my experiences [https://portfolio.greendino.dev/](https://portfolio.greendino.dev/)
 
-- ⚡ Fun fact **I've been programming for six years**
+- ⚡ Fun fact **I've been programming for eight years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
