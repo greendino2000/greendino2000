@@ -5,7 +5,7 @@
 
 - 🦾 I’m currently working on [Robot Arm](https://github.com/greendino2000/Robot-Arm)
 
-- 🌱 I’m currently learning **Java & Engineering Basics**
+- 🌱 I’m currently learning **Computer Engineering**
 
 - 📖 All of my open-source projects are available at [https://github.com/greendino2000?tab=repositories](https://github.com/greendino2000?tab=repositories)
 
