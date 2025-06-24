@@ -9,7 +9,7 @@
 
 - 📖 All of my open-source projects are available at [https://github.com/greendino2000?tab=repositories](https://github.com/greendino2000?tab=repositories)
 
-- 💬 Ask me about **dinosaurs, AI, portal, and Starfield**
+- 💬 Ask me about **dinosaurs and Portal**
 
 - 📫 How to reach me **greendino30ba@gmail.com**
 
